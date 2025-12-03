@@ -19,8 +19,8 @@ The analysis produces polished visualizations with professional formatting, save
 6. **Export outputs** → save cleaned CSV and chart image into respective folders
 
 ## Outputs
-- **CSV summary:** `data/department_spending_summary.csv`
-- **Line and Bar chart :** `images/department_spending_line.jpg`
+- **CSV summary
+- **Line and Bar chart 
   
 ##  Future Improvements
 - Add bar chart with labels for exact totals
